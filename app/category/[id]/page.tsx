@@ -1,7 +1,6 @@
 'use client';
 
 import Product from '@/components/Product';
-import { formatCategory } from '@/helpers/regex';
 import { filterByCategories } from '@/store/slice/filterByCategory';
 import { RootState } from '@/store/store';
 import { ParamsType } from '@/types/paramsType';
