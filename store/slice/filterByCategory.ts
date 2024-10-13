@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-export const tfilterByCategories = createAsyncThunk(
+export const filterByCategories = createAsyncThunk(
 	'filterByCategories/filterByCategories',
 	async (id: string) => {
 		const response = await axios.get(
