@@ -2,17 +2,6 @@
 
 Welcome to the **Online Store** project! This is a web application designed for users to browse, filter, and purchase products from various categories. The project utilizes modern web technologies to provide a seamless shopping experience.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - User-friendly interface to browse products
